@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **MYSELF**
 
-- 🌱 I’m currently learning **REACT NATIVE**
+- 🌱 I’m currently learning **REACT JS & REACT NATIVE**
 
-- 🤝 I’m looking for help with **MOBILE APP DEVELOPMENT**
+- 🤝 I’m looking for help with **MOBILE APP DEVELOPMENT AND WEB DEVELOPMENT**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sivapradeep-2403](https://github.com/sivapradeep-2403)
 
