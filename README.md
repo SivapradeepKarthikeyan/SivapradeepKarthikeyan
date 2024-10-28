@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw13UMHEfgI7aE7_mJYryNEW&ust=1730168588618000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNiWprWCsIkDFQAAAAAdAAAAABAE)
 <h1 align="center">Hi 👋, I'm SIVAPRADEEP</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
